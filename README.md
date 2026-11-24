@@ -69,6 +69,4 @@ Stages 3 and 4 save image files (`.png`) to the current folder when they run:
 └── README.md
 ```
 
-## License
 
-Not decided yet.
